@@ -53,5 +53,6 @@ The dataset contains information about:
 - Use real-time traffic data
 - Deploy the model as a web application
 
-## Author
-Lakshmi Bhavani
+👨‍💻 Author Lakshmi Bhavani Reddy
+
+lakshmibhavani071200@gmail.com | https://www.linkedin.com/in/lakshmibhavanireddy37/
