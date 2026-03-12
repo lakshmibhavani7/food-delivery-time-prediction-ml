@@ -30,6 +30,7 @@ The dataset contains information about:
 8. Feature Importance Analysis
 
 ## Machine Learning Models Used
+- LinearRegression
 - Random Forest Regressor
 
 ## Key Insights
